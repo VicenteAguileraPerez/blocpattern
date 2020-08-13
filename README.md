@@ -11,6 +11,7 @@ I didn't use a library.
 the implementation is manual.
 This is the first step before to use a library.Creating an manual implementation of BLoC pattern.
 
+
 ## BLoC Pattern
 
 
