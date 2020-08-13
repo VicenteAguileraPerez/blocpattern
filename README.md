@@ -1,4 +1,4 @@
-# blocpattern
+# BLoC Pattern
 
 A new Flutter application where I learn how to implement the BLoC pattern.
 
