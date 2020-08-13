@@ -14,7 +14,7 @@ This is the first step before to use a library.Creating an manual implementation
 ## BLoC Pattern
 
 
-The BLoC Pattern is a develope's pattern, which means Bussiness Logic Component.
+The BLoC Pattern is a development pattern, which means Bussiness Logic Component.
 This pattern says that we need to separate in a component i.e. a class all our bussiness logic of the
 UI. Then we connect them, namely the BLoC with the UI.
 This implementation allows in a near furure, scale the application.
